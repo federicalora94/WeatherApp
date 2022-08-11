@@ -24,9 +24,13 @@ h4{
   margin-top: 3em;
 }
 
+
+/* note for FEDERICA of the future: remember this!!! *********/
 span, input,li,small {
   font-size: clamp(0.7em, 4vw, 1em);
 }
+/* ************** */
+
 
 li{margin-bottom: 0.5em;}
 
